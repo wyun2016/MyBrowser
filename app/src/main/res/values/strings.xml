@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">安卓工控</string>
+    <string name="biaoshifu">http://([\\w-]+\\.)+[\\w-]+(/[\\w-\\./?%=]*)?</string>
+</resources>
